@@ -1,0 +1,8 @@
+elementColor 1 128 192 255
+elementColor 2 128 255 128
+elementColor 3 255 255 128
+edgeColor  32 48 64
+backgroundColor  255 255 255
+zoom 1.3
+nodalValueScaleMax 0.0
+nodalValueScaleMin 0.0
