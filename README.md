@@ -3,19 +3,23 @@
   
   ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots1.png)   
   
-  显示设计领域   
+                    显示设计领域   
+    
+    
+  ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots2.png)   
   
-  ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots1.png)   
+                    显示单元网格   
+    
+    
+  ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots3.png)   
   
-  显示单元网格   
+                    节点值大小分布   
+    
+    
+  ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots4.png)   
   
-  ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots1.png)   
-  
-  节点值大小分布   
-  
-  ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots1.png)   
-  
-  应力大小分布及最大最小值   
+                   应力大小分布及最大最小值   
+    
     
 #操作方式
   将.el2及.nv2文件拖放至界面中打开。
