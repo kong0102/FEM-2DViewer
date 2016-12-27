@@ -18,7 +18,7 @@
     
   ![](https://github.com/kong0102/FEM-2DViewer/blob/master/screenshots4.png)   
   
-                   应力大小分布及最大最小值   
+                   节点值大小分布及最大最小值
     
     
 #操作方式
@@ -60,15 +60,15 @@
 #设置文件说明
   设置文件为 settings.txt , 若没有将自动创建。其格式：  
   
-  elementColor可设置最多3种不同材料领域颜色  
+  elementColor：可设置最多3种不同材料领域颜色  
   
-  edgeColor为边界颜色  
+  edgeColor：边界颜色  
   
-  backgroundColor为界面背景颜色  
+  backgroundColor：界面背景颜色  
   
-  zoom为图形缩放比例  
+  zoom：图形缩放比例  
   
-  nodalValueScaleMax为显示的节点值最大值  
+  nodalValueScaleMax：显示的节点值最大值  
   
-  nodalValueScaleMin为显示的节点值最小值  
+  nodalValueScaleMin：显示的节点值最小值  
   
